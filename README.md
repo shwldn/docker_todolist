@@ -1,4 +1,4 @@
-3가지 폴더
+# 구성
 
 - todoSubject
     - MySQL 데이터 베이스를 활용한 todo list 개발
@@ -16,7 +16,7 @@
 # 개발 환경
 
 - server
-    - centos 7  (윈도우에서도 사용 가능 -> 단, localhost로 사용 가능)
+    - window 11
 
 - db
     - MySQL
